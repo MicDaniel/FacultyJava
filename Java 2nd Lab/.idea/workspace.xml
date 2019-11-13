@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39ec88ff-3ede-4d96-b7c8-803cae2a0f6b" name="Default Changelist" comment="" />
+    <list default="true" id="8d3fd9ef-d429-4204-9040-5d6ecad7d27d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Sawh75CqwUHFor8ITwarIzlBca" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Say078PKvprGgLr5cdwdd91rox" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Java-FirstLesson" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -28,17 +33,64 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.SkipNegativeElements">
+    <configuration name="Concatenare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concatenare" />
+      <module name="Java2ndLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcGr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EcGr2" />
+      <module name="Java2ndLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputIdentifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputIdentifier" />
+      <module name="Java2ndLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problema4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problema4" />
+      <module name="Java2ndLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkipNegativeElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SkipNegativeElements" />
+      <module name="Java2ndLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SkipNegativeElements" />
+        <item itemvalue="Application.Concatenare" />
+        <item itemvalue="Application.InputIdentifier" />
+        <item itemvalue="Application.EcGr2" />
+        <item itemvalue="Application.Problema4" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="39ec88ff-3ede-4d96-b7c8-803cae2a0f6b" name="Default Changelist" comment="" />
-      <created>1571815130375</created>
+      <changelist id="8d3fd9ef-d429-4204-9040-5d6ecad7d27d" name="Default Changelist" comment="" />
+      <created>1571815774296</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571815130375</updated>
-      <workItem from="1571815135327" duration="641000" />
+      <updated>1571815774296</updated>
+      <workItem from="1571815777982" duration="6957000" />
+      <workItem from="1571853566321" duration="3929000" />
     </task>
     <servers />
   </component>
