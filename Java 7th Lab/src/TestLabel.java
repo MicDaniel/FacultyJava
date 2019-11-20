@@ -13,17 +13,20 @@ class TestLabel extends JFrame
         JPanel topPanel = new JPanel();
         topPanel.setLayout( new GridLayout( 2, 2 ) );
         getContentPane().add( topPanel );
+
         JLabel label1 = new JLabel();
         label1.setBackground(Color.red);
         label1.setOpaque(true);
         label1.setText( "Label1" );
         label1.setForeground( Color.yellow );
         topPanel.add( label1 );
+
         JLabel label2 = new JLabel( "Label2" );
         label2.setBackground(Color.blue);
         label2.setOpaque(true);
         label2.setFont( new Font( "Helvetica", Font.BOLD, 18 ) );
         topPanel.add( label2 );
+
         Icon image = new ImageIcon( "myimage.jpeg" );
         JLabel label3 = new JLabel( "Enabled", image,SwingConstants.CENTER );
         label3.setMinimumSize( new Dimension(image.getIconWidth(), image.getIconHeight()));
@@ -33,6 +36,7 @@ class TestLabel extends JFrame
         label3.setOpaque(true);
         label3.setVerticalTextPosition( SwingConstants.TOP );
         topPanel.add( label3 );
+
         JLabel label4 = new JLabel( "Label4",SwingConstants.RIGHT );
         label4.setOpaque(true);
         label4.setBackground(Color.darkGray);
